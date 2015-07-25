@@ -1,0 +1,2 @@
+# oatsmoke
+The oatsmoke repository.
